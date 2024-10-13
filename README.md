@@ -20,7 +20,7 @@ pip install winzy-calendar
 ## How to use?
 
 ```bash
-cal
+winzy cal
 
       May 2020
 Su Mo Tu We Th Fr Sa
@@ -33,7 +33,7 @@ Su Mo Tu We Th Fr Sa
 ```
 
 ```bash
- cal -y 2020
+ winzy cal -y 2020
 
                                   2020
 
