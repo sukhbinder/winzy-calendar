@@ -17,37 +17,6 @@ pip install winzy-calendar
 ```
 ## Usage
 
-Usage instructions go here.
-
-## Development
-
-To set up this plugin locally, first checkout the code. Then create a new virtual environment:
-```bash
-cd winzy-calendar
-python -m venv venv
-source venv/bin/activate
-```
-Now install the dependencies and test dependencies:
-```bash
-pip install -e '.[test]'
-```
-To run the tests:
-```bash
-python -m pytest
-```
-
-
-## How to install?
-
-```bash
-pip install winzy-calendar
-```
-or
-
-```bash
-python setup.py install
-```
-
 ## How to use?
 
 ```bash
@@ -102,6 +71,35 @@ Su Mo Tu We Th Fr Sa      Su Mo Tu We Th Fr Sa      Su Mo Tu We Th Fr Sa
 18 19 20 21 22 23 24      22 23 24 25 26 27 28      20 21 22 23 24 25 26
 25 26 27 28 29 30 31      29 30                     27 28 29 30 31
 
+```
+
+## Development
+
+To set up this plugin locally, first checkout the code. Then create a new virtual environment:
+```bash
+cd winzy-calendar
+python -m venv venv
+source venv/bin/activate
+```
+Now install the dependencies and test dependencies:
+```bash
+pip install -e '.[test]'
+```
+To run the tests:
+```bash
+python -m pytest
+```
+
+
+## How to install?
+
+```bash
+pip install winzy-calendar
+```
+or
+
+```bash
+python setup.py install
 ```
 
 # Help
