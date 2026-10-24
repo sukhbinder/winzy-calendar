@@ -1,6 +1,6 @@
 [project]
 name = "winzy-calendar"
-version = "0.1"
+version = "0.2.0"
 description = "Calendar in windows commandline"
 readme = "README.md"
 authors = [{name = "Sukhbinder Singh"}]
